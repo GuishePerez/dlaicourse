@@ -17,3 +17,6 @@ JavaScript Course/.DS_Store
 .DS_Store
 TensorFlow In Practice/.DS_Store
 .DS_Store
+
+# Pycharm cache
+.idea/
